@@ -32,7 +32,9 @@ I want to add more formats and also HTML and XML code for image processing. But 
 # About
 
 This program under GNU GPLv3 License.
+
 E-Mail: mathindossoftwares@gmail.com
+
 Copyright © 2018-2020 MathInDOS	
 
 
